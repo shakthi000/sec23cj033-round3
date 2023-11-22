@@ -1,0 +1,142 @@
+body {
+    font-family: 'Lucida Sans';
+    background-image: url("https://images.pexels.com/photos/998641/pexels-photo-998641.jpeg?cs=srgb&dl=pexels-francesco-ungaro-998641.jpg&fm=jpg");
+    color: white;
+}
+
+
+header {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 1rem;
+    text-align: center;
+}
+
+h1, h2 {
+    margin-bottom: 1rem;
+}
+
+main {
+    padding: 2rem;
+}
+
+.section-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 0.5rem;
+}
+
+.image-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1rem;
+}
+
+form {
+    display: grid;
+    grid-gap: 1rem;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+form {
+    display: grid;
+    grid-gap: 1rem;
+}
+
+label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #fff;
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #fff;
+}
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.features-content ul li {
+    color: white;
+}
+
+h2 {
+    text-align: center;
+}
+
+p, ul, ol {
+    text-align: center;
+}
+
+li {
+    font-size: 16px;
+ }
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+a:hover {
+    color: #0056b3;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    main {
+        padding: 1rem;
+    }
+
+    .section-content {
+        max-width: 100%;
+    }
+
+    form {
+        grid-template-columns: 1fr;
+    }
+}
