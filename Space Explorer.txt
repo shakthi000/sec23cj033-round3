@@ -1,0 +1,21 @@
+SPACE EXPLORER
+
+Header:
+•	Navigation Bar: A sleek, semi-transparent navigation bar at the top with space-related icons like rockets or planets.
+•	Title: Large, bold text in the centre, with a cosmic background, displaying the name of the website.
+Main Section:
+•	Headline: A concise and inspiring headline overlaid conveying the theme or purpose of the website.
+About Section:
+•	Text Content: An informative section about space exploration or any specific focus of the website.
+Features Section:
+•	Brief Descriptions: Short descriptions under each icon, explaining the features or services offered.
+Gallery Section:
+•	Image Gallery: A grid of stunning space-related images that users can click on to view in a larger format.
+•	Social Media Links: Icons linking to the website's social media profiles for users to stay connected.
+Footer:
+•	Copyright Information: Copyright notice and the current year.
+Background:
+•	A subtle, dark background resembling the vastness of space to enhance the overall theme.
+Colour Scheme:
+•	Deep blues and blacks along with space and unknown cosmic objects to create a deep space-like atmosphere.
+•	Accents of bright colours for important elements to create contrast.
